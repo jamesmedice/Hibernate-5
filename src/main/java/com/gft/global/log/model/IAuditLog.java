@@ -7,5 +7,4 @@ public interface IAuditLog extends Serializable {
     Long getId();
 
     String getAuditDetail();
-
 }
